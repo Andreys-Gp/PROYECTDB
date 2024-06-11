@@ -4,6 +4,6 @@ import {connectDB} from './db.js'
 
 
 connectDB()
-app.listen(6000)
+app.listen(4000)
 
-console.log(' servidor iniciado en el puerto ' , 6000)
+console.log(' servidor iniciado en el puerto ' , 4000)
